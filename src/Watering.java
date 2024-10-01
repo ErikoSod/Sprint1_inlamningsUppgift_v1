@@ -1,7 +1,7 @@
 public enum Watering {
 
     /*
-    enum Watering har tre satta konstanter som representerar
+    Enum Watering har tre satta konstanter som representerar
     vattenmängd och typ av vatten som används av de olika subklasserna
     av Plant för att räkna ut den totala mängden vatten en växt behöver
     i getWatering metoden.
