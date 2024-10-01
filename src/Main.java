@@ -7,7 +7,7 @@ public class Main {
     public Main() {
 
         /*
-            Växt objekten sparas i en referens av typen Interface Waterable och
+            Växtobjekten sparas i en referens av typen Interface Waterable och
             sen i en lista av samma typ.
          */
 

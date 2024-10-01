@@ -2,7 +2,7 @@ public abstract class Plant {
 
     /*
     Klasserna Palm, Carnivorous och Cactus ärver
-    attributen och metoderna från klassen Plant.
+    attributer och metoderna från klassen Plant.
     Attributen är inkapslade och klassen är "read-only"
      */
 
